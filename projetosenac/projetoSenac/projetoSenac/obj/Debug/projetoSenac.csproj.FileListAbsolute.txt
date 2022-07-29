@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.Form1.resources
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.Properties.Resources.resources
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\bin\Debug\projetoSenac.exe.config
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\bin\Debug\projetoSenac.exe
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\bin\Debug\projetoSenac.pdb
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.exe
+C:\Users\Aluno\Desktop\projetosenac\projetoSenac\projetoSenac\obj\Debug\projetoSenac.pdb
